@@ -1,0 +1,1 @@
+2022-05-08T09:35:25+00:00 ERROR Error creating Stripe webhook. Mode: live. Reason: Invalid URL: http://wshop.local/wp-json/wc-stripe/v1/webhook. URLs in livemode must begin with "https://"
